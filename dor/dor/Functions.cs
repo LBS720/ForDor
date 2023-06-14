@@ -10,7 +10,7 @@ namespace dor
         int number1 = 2;
 
         public void publicFunction() // get the function in all files
-        {
+        { 
             MyName = "linoy";
 
             Console.WriteLine(MyName);

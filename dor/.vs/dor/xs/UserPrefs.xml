@@ -1,4 +1,25 @@
 ﻿<Properties StartupConfiguration="{D87A64FD-09CC-45CA-BDDB-9C59BE4DCE44}|Default">
-  <MonoDevelop.Ide.ItemProperties.dor FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="dor/Program.cs">
+    <Files>
+      <File FileName="dor/Program.cs" Line="2" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="dor">
+            <Node name="dor" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.dor PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
 </Properties>

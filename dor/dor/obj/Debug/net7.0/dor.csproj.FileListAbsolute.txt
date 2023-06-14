@@ -1,0 +1,15 @@
+/Users/linoybenshitrit/Documents/hw/ForDor/dor/dor/bin/Debug/net7.0/dor
+/Users/linoybenshitrit/Documents/hw/ForDor/dor/dor/bin/Debug/net7.0/dor.deps.json
+/Users/linoybenshitrit/Documents/hw/ForDor/dor/dor/bin/Debug/net7.0/dor.runtimeconfig.json
+/Users/linoybenshitrit/Documents/hw/ForDor/dor/dor/bin/Debug/net7.0/dor.dll
+/Users/linoybenshitrit/Documents/hw/ForDor/dor/dor/bin/Debug/net7.0/dor.pdb
+/Users/linoybenshitrit/Documents/hw/ForDor/dor/dor/obj/Debug/net7.0/dor.csproj.AssemblyReference.cache
+/Users/linoybenshitrit/Documents/hw/ForDor/dor/dor/obj/Debug/net7.0/dor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/linoybenshitrit/Documents/hw/ForDor/dor/dor/obj/Debug/net7.0/dor.AssemblyInfoInputs.cache
+/Users/linoybenshitrit/Documents/hw/ForDor/dor/dor/obj/Debug/net7.0/dor.AssemblyInfo.cs
+/Users/linoybenshitrit/Documents/hw/ForDor/dor/dor/obj/Debug/net7.0/dor.csproj.CoreCompileInputs.cache
+/Users/linoybenshitrit/Documents/hw/ForDor/dor/dor/obj/Debug/net7.0/dor.dll
+/Users/linoybenshitrit/Documents/hw/ForDor/dor/dor/obj/Debug/net7.0/refint/dor.dll
+/Users/linoybenshitrit/Documents/hw/ForDor/dor/dor/obj/Debug/net7.0/dor.pdb
+/Users/linoybenshitrit/Documents/hw/ForDor/dor/dor/obj/Debug/net7.0/dor.genruntimeconfig.cache
+/Users/linoybenshitrit/Documents/hw/ForDor/dor/dor/obj/Debug/net7.0/ref/dor.dll

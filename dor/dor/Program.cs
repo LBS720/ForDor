@@ -6,10 +6,14 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 //private
 
 
+//oop
+//abstract
+//intrerface
+
 Functions functions = new Functions();
 Console.WriteLine(functions.itIsDor("dorlinoy"));
 
-
+Car toyota = new Car();
 
 Console.ReadLine();
 
